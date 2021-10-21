@@ -35,8 +35,19 @@ body {
   font-size: 40px;
   font-weight: bold;
   color: #e5e5e5;
+<<<<<<< HEAD
+=======
   display: flex;
   justify-content: center;
+}
+.header h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #e5e5e5;
+>>>>>>> ccf540f03d1542fd79c1a137348734e896e98e32
+  display: flex;
+  justify-content: center;
+  padding-top: 1em;
 }
 .header h2 {
   font-size: 30px;
